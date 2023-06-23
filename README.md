@@ -1,5 +1,6 @@
 <h1 align="center">Hi guys, I'm Huynhthuw</h1>
 <h3 align="center">A beginer developer from Vietnam 🇻🇳</h3>
+https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif
 
 - 🤝 I’m looking for help with **code**
 
